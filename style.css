@@ -64,6 +64,10 @@ footer {
     border-top: 1px solid #171717;
 }
 
+#about,
+#contact {
+    background-color: white;
+}
 @media (max-width: 700px) {
     nav {
         flex-direction: column;
